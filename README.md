@@ -38,7 +38,7 @@ THEN I am able to successfully create, update, and delete data in my database
 * [Resources](#resources)
 
 ## Mock-Up
-![Demo](<video src="ORM_E-Commerce%20Demp.mp4" controls title="Title"></video>)
+<video src="ORM_E-Commerce%20Demp.mp4" controls title="Title"></video>
 
 ## License 
 This is covered under the [MIT License](https://github.com/Raquel-t/ORM_E-Commerce/blob/main/LICENSE)
