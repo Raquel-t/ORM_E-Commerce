@@ -31,7 +31,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Table of Contents
 
-* [Description](#description)
+* [Task](#task)
 * [License](#license)
 * [Questions](#questions)
 * [Resources](#resources)
