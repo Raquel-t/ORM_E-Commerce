@@ -32,7 +32,6 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Table of Contents
 
 * [Description](#description)
-* [Deployed-URL](#deployed-url)
 * [License](#license)
 * [Questions](#questions)
 * [Resources](#resources)
